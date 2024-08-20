@@ -5,4 +5,4 @@ A simple, interactive todo list application built with HTML, CSS, and JavaScript
 
 #sample image of my project
 
-<img src="images/sample.png" width="600">
+<img src="images/sample.png" width="650">
